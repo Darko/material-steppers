@@ -1,6 +1,6 @@
 # material-steppers
 
-Angular Steppers directive for Angular Material
+Angular Steppers directive for Angular Material WITHOUT !important on a bunch of shit
 
 Based on Material Steppers: https://www.google.com/design/spec/components/steppers.html#steppers-types-of-steppers
 
